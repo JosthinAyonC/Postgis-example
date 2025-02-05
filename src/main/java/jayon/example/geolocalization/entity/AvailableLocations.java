@@ -24,4 +24,7 @@ public class AvailableLocations {
 
     @Column(columnDefinition = "Geometry")
     private Geometry geom;
+
+    @Column(nullable = false)
+    private Integer radiusPerimeter;
 }

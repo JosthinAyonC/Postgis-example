@@ -1,4 +1,4 @@
-# Proyecto de ejemplo para tratar con geolocaizaciones y postgreSQL
+# Proyecto de ejemplo para tratar con geolocalizaciones y postgreSQL
 
 ### Levantar la base de datos lista para usarse con la extensión de Postgis:
 
